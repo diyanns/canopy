@@ -340,7 +340,7 @@
 <div id="how" class="sec">
   <div class="sec-hd rev">
     <div class="sec-eyebrow">How it works</div>
-    <h2 class="sec-h2">Search-engine architecture underneath.</h2>
+    <h2 class="sec-h2">Search-engine architecture.</h2>
     <p class="sec-body">A connector layer keeps the index live, hybrid retrieval finds the right passage, and every answer is generated with mandatory citations.</p>
   </div>
   <div class="why-grid">
@@ -447,7 +447,7 @@
     <div class="footer-top">
       <div>
         <div class="footer-brand">Canopy</div>
-        <p class="footer-tag">The knowledge layer for growing engineering teams. Every answer is one keystroke away.</p>
+        <p class="footer-tag">The knowledge layer for growing teams. Every answer is one keyboard shortcut away.</p>
       </div>
       <div class="footer-col">
         <h5>Product</h5>
